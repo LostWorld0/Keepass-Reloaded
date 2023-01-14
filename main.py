@@ -1,1 +1,1 @@
-print("INIT")
+print("init")
